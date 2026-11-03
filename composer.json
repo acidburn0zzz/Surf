@@ -13,7 +13,7 @@
     },
     "require-dev": {
         "symfony/finder": "^2.8|^3.0",
-        "phpunit/phpunit": "^4.8"
+        "phpunit/phpunit": "^8.5"
     },
     "extra": {
         "branch-alias": {
